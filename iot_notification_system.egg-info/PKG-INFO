@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: iot_notification_system
+Version: 0.1
+Summary: An IoT-based notification system for swine fever detection
+Author: Your Name
+Author-email: kalemberifrank@gmail.com.com
+Requires-Dist: paho-mqtt==1.6.1
+Requires-Dist: Flask==2.3.2
